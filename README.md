@@ -59,7 +59,7 @@ If you find any issues or have suggestions, you can create a new issue in the [I
 
 ## License
 
-WeatherAppX is open-source software licensed under the [MIT License](LICENSE).
+WeatherAppX is open-source software licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 
