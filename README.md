@@ -66,4 +66,3 @@ WeatherAppX is open-source software licensed under the [MIT License](LICENSE).
 If you have any questions or inquiries, you can reach me at [vichukartha@gmail.com](mailto:vichukartha@gmail.com).
 
 ---
-Please note that the information provided in this README is just an example, and you should customize it to fit your actual WeatherAppX project. Make sure to update the GitHub repository links, license information, and contact details as necessary. Additionally, include any specific setup or usage instructions relevant to your app.
